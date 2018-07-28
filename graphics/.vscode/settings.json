@@ -1,0 +1,30 @@
+{
+    "editor.formatOnSave": true,
+    "deploy": {
+        "packages": [
+            {
+                "name": "Version 2.3.4",
+                "description": "Package version 2.3.4",
+                "files": [
+                    "**/*.java",
+                    "**/*.aidl"
+                ],
+                "exclude": [
+                    "tests/**",
+                ],
+                "deployOnSave": true
+            }
+        ],
+        "targets": [
+            {
+                "type": "sftp",
+                "name": "My SFTP PinkDroid folder",
+                "description": "A SFTP PinkDroid folder",
+                "dir": "/home/pusnow/aosp/frameworks/base/graphics/java/android/graphics/",
+                "host": "blueberry.anlab", "port": 22,
+                "user": "pusnow",
+                "privateKey": "/Users/pusnow/.ssh/id_rsa"
+            }
+        ]
+    }
+}
