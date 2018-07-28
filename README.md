@@ -1,6 +1,7 @@
-# PinkDroid
+# PinkDroid: A System Level Android Contents Blocker
 
-AOSP branch: android-7.1.1_r22
+Wonsup Yoon, Bilgehan Bingol, Nak Hyun Choi
 
+## Build
 
-repo init -u https://android.googlesource.com/platform/manifest -b android-7.1.1_r22 --depth=1
+Read doc/manual.pdf
