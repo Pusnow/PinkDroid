@@ -25,4 +25,4 @@ Wonsup Yoon, Bilgehan Bingol, Nak Hyun Choi
 
 ## Acknowledgement
 
-PinkDroid was a term project for Special Topics in Computer Science<Android Internals> class at [KAIST](http://www.kaist.edu/) advised by Prof. Steven Ko.
+PinkDroid was a term project for Special Topics in Computer Science - Android Internals class at [KAIST](http://www.kaist.edu/) advised by Prof. Steven Ko.
