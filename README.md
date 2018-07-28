@@ -2,6 +2,11 @@
 
 Wonsup Yoon, Bilgehan Bingol, Nak Hyun Choi
 
+## Intro
+
+[Intro Slide](https://docs.google.com/presentation/d/1HT81D82ITUlWNyPYS6uYW8LltWLGDrXs9qo4P66jtNw/edit?usp=sharing)
+
+
 ## Demo
 
 ### Facebook App & Facebook Messenger
@@ -16,4 +21,8 @@ Wonsup Yoon, Bilgehan Bingol, Nak Hyun Choi
 
 ## Build
 
-Read doc/manual.pdf
+[Configuration Manual](https://github.com/Pusnow/PinkDroid/blob/master/doc/manual.md.pdf)
+
+## Acknowledgement
+
+PinkDroid is a term project of Special Topics in Computer Science<Android Internals> class at [KAIST](http://www.kaist.edu/). 
